@@ -7,7 +7,7 @@ userName = userName + 10;
 outputResult(userName, 'hi there')
 
 
-
+//Sample comment
 
 
 function outputResult(result,text) {
